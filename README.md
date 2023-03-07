@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sushil Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding width="200" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="coding width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil0011&label=Profile%20views&color=0e75b6&style=flat" alt="sushil0011" /> </p>
 
 - 🔭 I’m currently working on E-commerce (Under development)
